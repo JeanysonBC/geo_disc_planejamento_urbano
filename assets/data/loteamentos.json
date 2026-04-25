@@ -1,0 +1,209 @@
+[
+  {
+    "loteamento": "Aeroporto",
+    "bairro": "Aeroporto",
+    "registro": "04/04/2003",
+    "area_ha": 4.81,
+    "quadras": 6,
+    "lotes": 96,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Arizona",
+    "bairro": "Chico Cajá",
+    "registro": "06/05/2013",
+    "area_ha": 10.0,
+    "quadras": 12,
+    "lotes": 284,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Boa Vista",
+    "bairro": "São Geraldo",
+    "registro": "03/09/2013",
+    "area_ha": 5.24,
+    "quadras": 6,
+    "lotes": 94,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Campos Bello",
+    "bairro": "Riacho do Meio",
+    "registro": "Não identificado",
+    "area_ha": 10.5,
+    "quadras": 13,
+    "lotes": 264,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Campos do Alto",
+    "bairro": "Nova Pau dos Ferros",
+    "registro": "24/10/2013",
+    "area_ha": 10.0,
+    "quadras": 19,
+    "lotes": 224,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Cascatinha",
+    "bairro": "Alto do Açude",
+    "registro": "Não identificado",
+    "area_ha": 2.66,
+    "quadras": 4,
+    "lotes": 33,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Colinas do Alto Oeste",
+    "bairro": "Riacho do Meio",
+    "registro": "28/10/2008",
+    "area_ha": 14.72,
+    "quadras": 9,
+    "lotes": 281,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Colinas Zona Sul",
+    "bairro": "Chico Cajá",
+    "registro": "24/06/2008",
+    "area_ha": 2.31,
+    "quadras": 23,
+    "lotes": 43,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Colinas Zona Sul II",
+    "bairro": "Chico Cajá",
+    "registro": "23/07/2008",
+    "area_ha": 3.52,
+    "quadras": 6,
+    "lotes": 102,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Colinas Zona Sul III",
+    "bairro": "Chico Cajá",
+    "registro": "02/09/2009",
+    "area_ha": 4.89,
+    "quadras": 2,
+    "lotes": 34,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Colinas Zona Sul IV",
+    "bairro": "Chico Cajá",
+    "registro": "14/07/2010",
+    "area_ha": 5.93,
+    "quadras": 11,
+    "lotes": 68,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Gentil Estevam do Rego",
+    "bairro": "Paraíso",
+    "registro": "10/10/2011",
+    "area_ha": 5.7,
+    "quadras": 5,
+    "lotes": 54,
+    "licenca_ambiental": true
+  },
+  {
+    "loteamento": "Inácia Fernandes da Costa",
+    "bairro": "Zeca Pedro",
+    "registro": "15/07/2009",
+    "area_ha": 7.33,
+    "quadras": 9,
+    "lotes": 166,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Jardim América",
+    "bairro": "João Catingueira",
+    "registro": "01/09/2009",
+    "area_ha": 7.58,
+    "quadras": 9,
+    "lotes": 73,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Jardim América II",
+    "bairro": "João Catingueira",
+    "registro": "19/04/2011",
+    "area_ha": 8.95,
+    "quadras": 10,
+    "lotes": 109,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Jardim São Paulo",
+    "bairro": "Zeca Pedro",
+    "registro": "13/08/2015",
+    "area_ha": 4.9,
+    "quadras": 11,
+    "lotes": null,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Nova Pau dos Ferros",
+    "bairro": "Nova Pau dos Ferros",
+    "registro": "07/04/2011",
+    "area_ha": 12.6,
+    "quadras": 19,
+    "lotes": 232,
+    "licenca_ambiental": true
+  },
+  {
+    "loteamento": "Oeste Village",
+    "bairro": "Nações Unidas",
+    "registro": "25/09/2015",
+    "area_ha": 7.0,
+    "quadras": 17,
+    "lotes": 278,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Parque União",
+    "bairro": "João Catingueira",
+    "registro": "16/10/2007",
+    "area_ha": 6.08,
+    "quadras": 6,
+    "lotes": 57,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Pedra Azul",
+    "bairro": "Chico Cajá",
+    "registro": "29/04/2009",
+    "area_ha": 8.96,
+    "quadras": 9,
+    "lotes": 179,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Planalto",
+    "bairro": "Chico Cajá",
+    "registro": "28/02/2011",
+    "area_ha": 6.76,
+    "quadras": 3,
+    "lotes": 42,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Segundo Melo",
+    "bairro": "Manoel Domingos",
+    "registro": "09/11/2011",
+    "area_ha": 16.93,
+    "quadras": 36,
+    "lotes": 619,
+    "licenca_ambiental": false
+  },
+  {
+    "loteamento": "Ubiranilton Deodato",
+    "bairro": "Princesinha do Oeste",
+    "registro": "09/08/2012",
+    "area_ha": 3.69,
+    "quadras": 6,
+    "lotes": 110,
+    "licenca_ambiental": true
+  }
+]
